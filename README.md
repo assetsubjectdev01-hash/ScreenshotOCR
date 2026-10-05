@@ -1,6 +1,6 @@
 # WinTess-OCR
 
-**Select any area of your screen — get the text, screenshot right in your clipboard, image file with different types, GIF**
+**Select any area of your screen — get the text, screenshot right in your clipboard, image file with different types, GIF, translation.**
 A lightweight Windows tray app with inspiration of Lightshot, with built-in OCR.
 
 ## [⬇ Download the latest version](../../releases/latest)
