@@ -1,4 +1,4 @@
-# Screenshot OCR
+# WinTess-OCR
 
 **Select any area of your screen — the text is already in your clipboard.**
 A lightweight Windows tray app in the spirit of Lightshot, with built-in OCR.
