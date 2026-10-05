@@ -6,7 +6,7 @@ A lightweight Windows tray app with inspiration of Lightshot, with built-in OCR.
 ## [⬇ Download the latest version](../../releases/latest)
 
 - Lightshot-familiar-style selection, multiple monitors, any display scaling
-- 124 OCR languages, downloaded on first launch
+- 124 OCR languages, can be downloaded on first launch
 - Local recognition, no telemetry
 - Interface: English / Русский / Українська
 
