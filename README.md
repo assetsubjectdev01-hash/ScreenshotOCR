@@ -14,3 +14,21 @@ A lightweight Windows tray app with inspiration of Lightshot, with built-in OCR.
 - Interface: English / Русский / Українська
 
 Details, installation notes and the file checksum are on the [Releases page](../../releases/latest).
+
+<details>
+<summary>🇷🇺 Русский</summary>
+> WinTess OCR — это независимый проект, созданный на основе [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
+Данный проект не связан напрямую с разработчиками «Tesseract» и не поддерживается ими.
+
+**Выделите любую область экрана — получите текст, скриншот прямо в буфере обмена, файл изображения различных форматов, GIF, перевод.**
+Легкое приложение для панели задач Windows, вдохновлённое Lightshot, со встроенным OCR.
+
+## [⬇ Скачать последнюю версию](../../releases/latest)
+
+- Выделение в стиле Lightshot, поддержка нескольких мониторов, любое масштабирование экрана
+- 124 языка OCR, которые можно загрузить при первом запуске
+- Локальное распознавание, без телеметрии
+- Интерфейс: English / Русский / Українська
+
+Подробности, инструкции по установке и контрольная сумма файла находятся на [странице релизов](../../releases/latest).
+</details>
