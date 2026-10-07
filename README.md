@@ -4,7 +4,7 @@
 This project is not directly affiliated with the developers of “Tesseract” and is not supported by them.
 
 **Select any area of your screen — get the text, screenshot right in your clipboard, image file with different types, GIF, translation.**
-A lightweight Windows tray app with inspiration of Lightshot, with built-in OCR.
+A lightweight Windows tray app with inspiration of Lightshot, with built-in OCR (Optical Character Recognition).
 
 ## [⬇ Download the latest version](../../releases/latest)
 
@@ -21,7 +21,7 @@ Details, installation notes and the file checksum are on the [Releases page](../
 Данный проект не связан напрямую с разработчиками «Tesseract» и не поддерживается ими.
 
 **Выделите любую область экрана — получите текст, скриншот прямо в буфере обмена, файл изображения различных форматов, GIF, перевод.**
-Легкое приложение для панели задач Windows, вдохновлённое Lightshot, со встроенным OCR.
+Легкое приложение для панели задач Windows, вдохновлённое Lightshot, со встроенным OCR (Оптическое Распознавание Символов).
 
 ## [⬇ Скачать последнюю версию](../../releases/latest)
 
@@ -39,7 +39,7 @@ Details, installation notes and the file checksum are on the [Releases page](../
 Цей проєкт не пов’язаний безпосередньо з розробниками «Tesseract» і не підтримується ними.
 
 **Виберіть будь-яку ділянку екрана — отримайте текст, знімок екрана прямо у буфер обміну, файл зображення різних типів, GIF, переклад.**
-Легка програма для системного лотка Windows, натхненна Lightshot, із вбудованим OCR.
+Легка програма для системного лотка Windows, натхненна Lightshot, із вбудованим OCR (Оптичне Розпізнавання Символів).
 
 ## [⬇ Завантажити останню версію](../../releases/latest)
 
